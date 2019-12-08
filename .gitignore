@@ -1,0 +1,13 @@
+.idea
+out
+
+.DS_Store
+build.xml
+*.log
+*.iml
+.project
+.settings
+output
+**/.DS_Store
+*.tern-port
+**/.idea/*
